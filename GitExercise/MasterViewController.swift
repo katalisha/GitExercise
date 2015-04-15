@@ -15,7 +15,7 @@ class MasterViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.objects = [Kate()]
+        self.objects = [Kate(), Adam(), Andrew(), Anthony(), Casey(), Chris(), Dallas(), Heath(), Matt(), Rohit(), Ryan(),Shrinivas(), Terence(), Toan(), Xanthe()]
     }
 
     override func didReceiveMemoryWarning() {
