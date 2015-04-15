@@ -25,6 +25,7 @@ class DetailViewController: UIViewController {
         if let detail: StudentProtocol = self.detailItem {
             if let label = self.detailDescriptionLabel {
                 label.text = detail.message
+                label.numberOfLines = 0
             }
         }
     }
