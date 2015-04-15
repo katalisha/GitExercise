@@ -10,5 +10,5 @@ import Foundation
 
 struct Kate :StudentProtocol {
     var name = "Kate"
-    var message = "Invader's blood marches through my veins like giant radioactive rubber pants! The pants command me! Do not ignore my veins!"
+    var message = "Invader's blood marches through my veins like giant radioactive rubber pants! The pants command me! Do not ignore my veins! - Invader Zim"
 }
