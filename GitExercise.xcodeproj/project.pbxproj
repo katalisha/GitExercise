@@ -14,6 +14,22 @@
 		445259BE1ADE53A900A8CB51 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 445259BD1ADE53A900A8CB51 /* Images.xcassets */; };
 		445259C11ADE53A900A8CB51 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 445259BF1ADE53A900A8CB51 /* LaunchScreen.xib */; };
 		445259CD1ADE53A900A8CB51 /* GitExerciseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259CC1ADE53A900A8CB51 /* GitExerciseTests.swift */; };
+		445259D81ADE553F00A8CB51 /* Adam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259D71ADE553F00A8CB51 /* Adam.swift */; };
+		445259DA1ADE55D300A8CB51 /* StudentProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259D91ADE55D300A8CB51 /* StudentProtocol.swift */; };
+		445259DC1ADE64FC00A8CB51 /* Andrew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259DB1ADE64FC00A8CB51 /* Andrew.swift */; };
+		445259DE1ADE652600A8CB51 /* Anthony.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259DD1ADE652600A8CB51 /* Anthony.swift */; };
+		445259E01ADE654300A8CB51 /* Casey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259DF1ADE654300A8CB51 /* Casey.swift */; };
+		445259E21ADE655F00A8CB51 /* Chris.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259E11ADE655F00A8CB51 /* Chris.swift */; };
+		445259E41ADE657900A8CB51 /* Dallas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259E31ADE657900A8CB51 /* Dallas.swift */; };
+		445259E61ADE658E00A8CB51 /* Heath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259E51ADE658E00A8CB51 /* Heath.swift */; };
+		445259E81ADE65B400A8CB51 /* Matt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259E71ADE65B400A8CB51 /* Matt.swift */; };
+		445259EA1ADE65E300A8CB51 /* Rohit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259E91ADE65E300A8CB51 /* Rohit.swift */; };
+		445259EC1ADE660500A8CB51 /* Shrinivas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259EB1ADE660500A8CB51 /* Shrinivas.swift */; };
+		445259EE1ADE662700A8CB51 /* Terence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259ED1ADE662700A8CB51 /* Terence.swift */; };
+		445259F01ADE664200A8CB51 /* Toan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259EF1ADE664200A8CB51 /* Toan.swift */; };
+		445259F21ADE665D00A8CB51 /* Xanthe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259F11ADE665D00A8CB51 /* Xanthe.swift */; };
+		445259F41ADE667600A8CB51 /* Ryan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259F31ADE667600A8CB51 /* Ryan.swift */; };
+		445259F61ADE669F00A8CB51 /* Kate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445259F51ADE669F00A8CB51 /* Kate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +54,22 @@
 		445259C61ADE53A900A8CB51 /* GitExerciseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitExerciseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		445259CB1ADE53A900A8CB51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		445259CC1ADE53A900A8CB51 /* GitExerciseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitExerciseTests.swift; sourceTree = "<group>"; };
+		445259D71ADE553F00A8CB51 /* Adam.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Adam.swift; sourceTree = "<group>"; };
+		445259D91ADE55D300A8CB51 /* StudentProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentProtocol.swift; sourceTree = "<group>"; };
+		445259DB1ADE64FC00A8CB51 /* Andrew.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Andrew.swift; sourceTree = "<group>"; };
+		445259DD1ADE652600A8CB51 /* Anthony.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Anthony.swift; sourceTree = "<group>"; };
+		445259DF1ADE654300A8CB51 /* Casey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Casey.swift; sourceTree = "<group>"; };
+		445259E11ADE655F00A8CB51 /* Chris.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chris.swift; sourceTree = "<group>"; };
+		445259E31ADE657900A8CB51 /* Dallas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dallas.swift; sourceTree = "<group>"; };
+		445259E51ADE658E00A8CB51 /* Heath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Heath.swift; sourceTree = "<group>"; };
+		445259E71ADE65B400A8CB51 /* Matt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Matt.swift; sourceTree = "<group>"; };
+		445259E91ADE65E300A8CB51 /* Rohit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rohit.swift; sourceTree = "<group>"; };
+		445259EB1ADE660500A8CB51 /* Shrinivas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shrinivas.swift; sourceTree = "<group>"; };
+		445259ED1ADE662700A8CB51 /* Terence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Terence.swift; sourceTree = "<group>"; };
+		445259EF1ADE664200A8CB51 /* Toan.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Toan.swift; sourceTree = "<group>"; };
+		445259F11ADE665D00A8CB51 /* Xanthe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Xanthe.swift; sourceTree = "<group>"; };
+		445259F31ADE667600A8CB51 /* Ryan.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ryan.swift; sourceTree = "<group>"; };
+		445259F51ADE669F00A8CB51 /* Kate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +111,7 @@
 		445259B11ADE53A900A8CB51 /* GitExercise */ = {
 			isa = PBXGroup;
 			children = (
+				445259D61ADE550300A8CB51 /* Class */,
 				445259B41ADE53A900A8CB51 /* AppDelegate.swift */,
 				445259B61ADE53A900A8CB51 /* MasterViewController.swift */,
 				445259B81ADE53A900A8CB51 /* DetailViewController.swift */,
@@ -86,6 +119,7 @@
 				445259BD1ADE53A900A8CB51 /* Images.xcassets */,
 				445259BF1ADE53A900A8CB51 /* LaunchScreen.xib */,
 				445259B21ADE53A900A8CB51 /* Supporting Files */,
+				445259D91ADE55D300A8CB51 /* StudentProtocol.swift */,
 			);
 			path = GitExercise;
 			sourceTree = "<group>";
@@ -113,6 +147,28 @@
 				445259CB1ADE53A900A8CB51 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		445259D61ADE550300A8CB51 /* Class */ = {
+			isa = PBXGroup;
+			children = (
+				445259D71ADE553F00A8CB51 /* Adam.swift */,
+				445259DB1ADE64FC00A8CB51 /* Andrew.swift */,
+				445259DD1ADE652600A8CB51 /* Anthony.swift */,
+				445259DF1ADE654300A8CB51 /* Casey.swift */,
+				445259E11ADE655F00A8CB51 /* Chris.swift */,
+				445259E31ADE657900A8CB51 /* Dallas.swift */,
+				445259E51ADE658E00A8CB51 /* Heath.swift */,
+				445259E71ADE65B400A8CB51 /* Matt.swift */,
+				445259E91ADE65E300A8CB51 /* Rohit.swift */,
+				445259EB1ADE660500A8CB51 /* Shrinivas.swift */,
+				445259ED1ADE662700A8CB51 /* Terence.swift */,
+				445259EF1ADE664200A8CB51 /* Toan.swift */,
+				445259F11ADE665D00A8CB51 /* Xanthe.swift */,
+				445259F31ADE667600A8CB51 /* Ryan.swift */,
+				445259F51ADE669F00A8CB51 /* Kate.swift */,
+			);
+			name = Class;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,8 +271,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				445259DC1ADE64FC00A8CB51 /* Andrew.swift in Sources */,
+				445259E81ADE65B400A8CB51 /* Matt.swift in Sources */,
+				445259EE1ADE662700A8CB51 /* Terence.swift in Sources */,
+				445259D81ADE553F00A8CB51 /* Adam.swift in Sources */,
+				445259EA1ADE65E300A8CB51 /* Rohit.swift in Sources */,
+				445259E41ADE657900A8CB51 /* Dallas.swift in Sources */,
+				445259E21ADE655F00A8CB51 /* Chris.swift in Sources */,
+				445259F41ADE667600A8CB51 /* Ryan.swift in Sources */,
+				445259F01ADE664200A8CB51 /* Toan.swift in Sources */,
+				445259F61ADE669F00A8CB51 /* Kate.swift in Sources */,
+				445259F21ADE665D00A8CB51 /* Xanthe.swift in Sources */,
+				445259DA1ADE55D300A8CB51 /* StudentProtocol.swift in Sources */,
+				445259EC1ADE660500A8CB51 /* Shrinivas.swift in Sources */,
+				445259E01ADE654300A8CB51 /* Casey.swift in Sources */,
+				445259DE1ADE652600A8CB51 /* Anthony.swift in Sources */,
 				445259B91ADE53A900A8CB51 /* DetailViewController.swift in Sources */,
 				445259B71ADE53A900A8CB51 /* MasterViewController.swift in Sources */,
+				445259E61ADE658E00A8CB51 /* Heath.swift in Sources */,
 				445259B51ADE53A900A8CB51 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
