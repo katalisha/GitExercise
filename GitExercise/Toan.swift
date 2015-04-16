@@ -7,8 +7,8 @@
 //
 
 import Foundation
-
+//struc -> pieace of data has collection of variables
 struct Toan :StudentProtocol {
     var name = "Toan"
-    var message = ""
+    var message = "you don't have to be GREAT to START, but you have to START to be GREAT"
 }
