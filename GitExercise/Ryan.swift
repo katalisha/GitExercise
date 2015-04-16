@@ -10,5 +10,5 @@ import Foundation
 
 struct Ryan :StudentProtocol {
     var name = "Ryan"
-    var message = ""
+    var message = "When you're young, you're not afraid of what comes next. You're \"excited\" by it."
 }
