@@ -10,5 +10,5 @@ import Foundation
 
 struct Xanthe :StudentProtocol {
     var name = "Xanthe"
-    var message = ""
+    var message = "Everything is probably going to be ok"
 }
