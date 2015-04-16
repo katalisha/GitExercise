@@ -10,5 +10,5 @@ import Foundation
 
 struct Heath :StudentProtocol {
     var name = "Heath"
-    var message = ""
+    var message = "Hope Dies Last"
 }
