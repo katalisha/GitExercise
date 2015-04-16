@@ -10,5 +10,5 @@ import Foundation
 
 struct Matt :StudentProtocol {
     var name = "Matt"
-    var message = ""
+    var message = "What is this? A center for ants? How can we be expected to teach children to learn how to read... if they can't even fit inside the building?"
 }
